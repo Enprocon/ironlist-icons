@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>youtube</title>
+    <defs>
+        <path d="M11.9999999,1.99969995 C17.523,1.99969995 21.9999999,6.47669997 21.9999999,11.9997 C21.9999999,17.5227 17.523,21.9997 11.9999999,21.9997 C6.47699997,21.9997 1.99999995,17.5227 1.99999995,11.9997 C1.99999995,6.47669997 6.47699997,1.99969995 11.9999999,1.99969995 Z M12,3.52969996 C7.32199998,3.52969996 3.52899996,7.32169998 3.52899996,11.9997 C3.52899996,16.6787 7.32199998,20.4707 12,20.4707 C16.678,20.4707 20.471,16.6787 20.471,11.9997 C20.471,7.32169998 16.678,3.52969996 12,3.52969996 Z M8.96729998,7.54359998 L16.2593,11.9996 L8.96729998,16.4566 L8.96729998,7.54359998 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons-[All-Platforms]" transform="translate(-1059.000000, -1640.000000)">
+            <g id="Group" transform="translate(1057.000000, 1638.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Combined-Shape" fill="#62656E" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

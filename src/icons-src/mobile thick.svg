@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="20px" viewBox="0 0 14 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>mobile thick</title>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons-[All-Platforms]" transform="translate(-1204.000000, -686.000000)" fill="#62656E">
+            <g id="Icons_basic_properties" transform="translate(1199.000000, 684.000000)">
+                <path d="M17.43,1.99999995 L19,3.58999996 L19,20.025 L17.51,21.9999999 L6.46499997,21.9999999 L4.99999996,19.9999999 L4.99999996,3.58499996 L6.58499997,1.99999995 L17.43,1.99999995 Z M16.595,3.99999996 L7.40999998,3.99999996 L6.99999997,4.41499996 L6.99999997,19.36 L7.46999998,20 L16.515,20 L17.015,19.355 L17.015,4.40999996 L16.595,3.99999996 Z M12,16 C12.5522848,16 13,16.4477153 13,17 C13,17.5522847 12.5522848,18 12,18 C11.4477152,18 11,17.5522847 11,17 C11,16.4477153 11.4477152,16 12,16 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>

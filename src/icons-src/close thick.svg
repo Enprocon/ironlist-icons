@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>close thick</title>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons-[All-Platforms]" transform="translate(-1339.000000, -1170.000000)" fill="#62656E">
+            <g id="Icons_navigation_close" transform="translate(1337.000000, 1168.000000)">
+                <polygon points="20.586 1.99999995 19.315 3.27049996 12 10.5855 4.68499996 3.27049996 3.41399996 1.99999995 1.99999995 1.99999995 1.99999995 3.41399996 3.27099996 4.68449996 10.586 12 3.27099996 19.315 3.27099996 19.3145 1.99999995 20.586 1.99999995 22.0000001 3.41399996 22.0000001 4.68499996 20.729 12 13.414 19.315 20.729 20.586 22.0000001 22.0000001 22.0000001 22.0000001 20.586 20.7295 19.3145 20.7295 19.315 13.4145 12 20.7295 4.68449996 22.0000001 3.41399996 22.0000001 1.99999995"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

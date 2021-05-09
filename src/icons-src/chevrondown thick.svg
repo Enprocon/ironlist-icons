@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="12px" viewBox="0 0 20 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>chevrondown thick</title>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons-[All-Platforms]" transform="translate(-777.000000, -1174.000000)" fill="#62656E">
+            <g id="Icons_navigation_chevron_down" transform="translate(775.000000, 1168.000000)">
+                <polygon transform="translate(12.001367, 12.000000) scale(-1, 1) rotate(90.000000) translate(-12.001367, -12.000000) " points="6.50136695 1.99999994 6.50136695 3.41399995 7.77236696 4.68449995 15.087367 12 7.77236696 19.315 7.77236696 19.3145 6.50136695 20.586 6.50136695 22 7.91536696 22 9.18586697 20.729 16.501367 13.414 16.501867 13.4145 17.501367 12.4145 17.501367 11.587 13.559367 7.64449997 13.559867 7.64399997 9.18586697 3.27049995 7.91536696 1.99999994"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

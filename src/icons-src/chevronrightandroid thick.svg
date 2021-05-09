@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="16px" viewBox="0 0 17 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>chevronrightandroid thick</title>
+    <defs>
+        <path d="M13.1005261,4.42424239 L14.0897544,5.38674239 L20.3333334,11.4643939 L20.3333334,12.5356061 L14.0897544,18.6128788 L13.1005261,19.5757576 L12,19.5757576 L12,18.5045454 L12.9888391,17.5416667 L17.9028299,12.7572424 L4.68229126,12.7574615 L3.9248299,12.0000001 L4.68229126,11.2425388 L17.9038299,11.2422424 L12.9888391,6.45795451 L12,5.49545451 L12,4.42424239 L13.1005261,4.42424239 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons-[All-Platforms]" transform="translate(-780.000000, -1268.000000)">
+            <g id="Group" transform="translate(776.000000, 1264.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Combined-Shape" fill="#62656E" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

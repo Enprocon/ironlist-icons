@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="18px" viewBox="0 0 14 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>documents thick</title>
+    <defs>
+        <path d="M17.791124,3.66666663 L18.6666667,4.78559276 L18.6666667,19.5998284 L17.791124,20.3333334 L6.17249348,20.3333334 L5.3333333,19.5998284 L5.3333333,4.78559276 L6.17249348,3.66666663 L17.791124,3.66666663 Z M17.0314576,5.31561459 L7.01966938,5.31561459 L7.01966938,18.7131953 L17.0314576,18.7131953 L17.0314576,5.31561459 Z M15.1491547,14.5 L15.1491547,16.1666667 L9.01941819,16.1666667 L9.01941819,14.5 L15.1491547,14.5 Z M15.1491547,11.4940447 L15.1491547,13.1607113 L9.01941819,13.1607113 L9.01941819,11.4940447 L15.1491547,11.4940447 Z M15.1491547,8.26453057 L15.1491547,9.93119725 L9.01941819,9.93119725 L9.01941819,8.26453057 L15.1491547,8.26453057 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons-[All-Platforms]" transform="translate(-80.000000, -375.000000)">
+            <g id="Group" transform="translate(75.000000, 372.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Combined-Shape" fill="#62656E" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

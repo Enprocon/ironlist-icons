@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>plus thick</title>
+    <defs>
+        <path d="M12.0294295,4.8576861 L12.8498331,5.56465004 L12.8496861,11.1826861 L18.7793569,11.1835827 L19.465219,12.0312749 L18.7791068,12.8792171 L12.8496861,12.8786861 L12.8498331,18.7793569 L12.0294294,19.465219 L11.1796418,18.7791069 L11.1786861,12.8786861 L5.56465005,12.8789671 L4.85768612,12.0312749 L5.56465005,11.1835828 L11.1796861,11.1826861 L11.1798918,5.56465004 L12.0294295,4.8576861 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons-[All-Platforms]" transform="translate(-781.000000, -688.000000)">
+            <g id="Group" transform="translate(777.000000, 684.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Combined-Shape" fill="#62656E" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>
