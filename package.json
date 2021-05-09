@@ -1,21 +1,19 @@
 {
   "name": "ironlist-icons",
   "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "@testing-library/jest-dom": "^5.11.4",
-    "@testing-library/react": "^11.1.0",
-    "@testing-library/user-event": "^12.1.10",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "react-scripts": "4.0.3",
-    "web-vitals": "^1.0.1"
-  },
+  "private": false,
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "dependencies": {},
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
+    "test": "react-app-rewired test",
+    "eject": "react-scripts eject",
+    "clean:icons": "rimraf src/icons-dest",
+    "generate:icons": "npm run clean:icons && node node_modules/@svgr/cli/bin/svgr -d ./src/icons-dest ./src/icons-src",
+    "clean": "rimraf dist",
+    "compile": "npm run clean && cross-env NODE_ENV=production babel src/icons-dest --out-dir dist --copy-files --ignore __tests__,spec.js,test.js,stories.js,__snapshots__"
   },
   "eslintConfig": {
     "extends": [
@@ -34,5 +32,23 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "peerDependencies": {
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "@babel/cli": "7.13.16",
+    "@babel/preset-env": "7.14.1",
+    "@babel/preset-react": "7.13.13",
+    "@svgr/cli": "5.5.0",
+    "@svgr/core": "5.5.0",
+    "@svgr/webpack": "5.5.0",
+    "babel-preset-minify": "0.5.1",
+    "cross-env": "7.0.3",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-app-rewired": "2.1.8",
+    "react-scripts": "4.0.3"
   }
 }
