@@ -16,9 +16,9 @@ function SvgInstagram(props) {
         />
       </defs>
       <use
-        fill="#62656E"
         xlinkHref="#instagram_svg__a"
         transform="translate(-2 -2)"
+        fill="none"
         fillRule="evenodd"
       />
     </svg>

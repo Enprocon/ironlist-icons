@@ -16,9 +16,9 @@ function SvgBookmarkthick(props) {
         />
       </defs>
       <use
-        fill="#62656E"
         xlinkHref="#bookmark_thick_svg__a"
         transform="translate(-5 -4)"
+        fill="none"
         fillRule="evenodd"
       />
     </svg>

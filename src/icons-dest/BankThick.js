@@ -16,9 +16,9 @@ function SvgBankthick(props) {
         />
       </defs>
       <use
-        fill="#62656E"
         xlinkHref="#bank_thick_svg__a"
         transform="translate(-2 -3)"
+        fill="none"
         fillRule="evenodd"
       />
     </svg>

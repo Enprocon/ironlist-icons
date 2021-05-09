@@ -16,9 +16,9 @@ function SvgHidethick(props) {
         />
       </defs>
       <use
-        fill="#62656E"
         xlinkHref="#hide_thick_svg__a"
         transform="translate(-2 -4)"
+        fill="none"
         fillRule="evenodd"
       />
     </svg>

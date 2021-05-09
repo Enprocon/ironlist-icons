@@ -2,7 +2,7 @@
 <svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>arrowdouble-right thick</title>
     <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Icons-[All-Platforms]" transform="translate(-640.000000, -1170.000000)" fill="#62656E">
+        <g id="Icons-[All-Platforms]" transform="translate(-640.000000, -1170.000000)" >
             <g id="Combined-Shape" transform="translate(638.000000, 1168.000000)">
                 <path d="M4.05165216,2.58847054 L13.4671608,12.0102553 L11.8227798,13.6325223 L4.05164402,21.4084706 L1.99964701,21.4084706 L1.99964701,19.3625959 L9.35882352,11.9976471 L1.99964701,4.63437192 L1.99964701,2.58847054 L4.05165216,2.58847054 Z M12.0583581,2.58847054 L21.4736659,12.0100544 L19.8294857,13.6325223 L12.0583499,21.4084706 L10.0075294,21.4084706 L10.0075294,19.3626226 L17.3647059,11.9976471 L10.0075294,4.63434526 L10.0075294,2.58847054 L12.0583581,2.58847054 Z"></path>
             </g>

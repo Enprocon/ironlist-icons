@@ -16,9 +16,9 @@ function SvgSendthick(props) {
         />
       </defs>
       <use
-        fill="#62656E"
         xlinkHref="#send_thick_svg__a"
         transform="translate(-3 -4)"
+        fill="none"
         fillRule="evenodd"
       />
     </svg>

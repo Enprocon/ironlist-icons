@@ -16,9 +16,9 @@ function SvgChevronrightandroidthick(props) {
         />
       </defs>
       <use
-        fill="#62656E"
         xlinkHref="#chevronrightandroid_thick_svg__a"
         transform="translate(-4 -4)"
+        fill="none"
         fillRule="evenodd"
       />
     </svg>

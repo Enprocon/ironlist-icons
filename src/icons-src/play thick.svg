@@ -2,7 +2,7 @@
 <svg width="16px" height="20px" viewBox="0 0 16 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>play thick</title>
     <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Icons-[All-Platforms]" transform="translate(-639.000000, -686.000000)" fill="#62656E">
+        <g id="Icons-[All-Platforms]" transform="translate(-639.000000, -686.000000)" >
             <g id="Icons_basic_play" transform="translate(635.000000, 684.000000)">
                 <path d="M5.58651306,1.99999995 L3.99999996,2.85456619 L3.99999996,21.1449257 L5.58651306,21.9999999 L20,12.8548203 L20,11.1451797 L5.58651306,1.99999995 Z M6.05906953,4.71611834 L17.5394119,11.999746 L6.05906953,19.2838816 L6.05906953,4.71611834 Z"></path>
             </g>

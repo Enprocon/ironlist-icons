@@ -2,7 +2,7 @@
 <svg width="20px" height="16px" viewBox="0 0 20 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>sms thick</title>
     <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Icons-[All-Platforms]" transform="translate(-1344.000000, -792.000000)" fill="#62656E">
+        <g id="Icons-[All-Platforms]" transform="translate(-1344.000000, -792.000000)" >
             <g id="Icons_basic_sms" transform="translate(1342.000000, 788.000000)">
                 <path d="M3.5090773,3.99999996 L1.99999995,5.6438247 L1.99999995,18.2242242 L3.62596365,20 L20.4615767,20 L21.9999999,18.204087 L21.9999999,5.58129365 L20.2253171,3.99999996 L3.5090773,3.99999996 Z M5.58070129,6.11969659 L18.0412833,6.11969659 L11.9716488,11.3092439 L5.58070129,6.11969659 Z M20.0104452,7.15357862 L20.0104452,17.3821747 L19.5836857,17.8808333 L4.46456101,17.8808333 L3.9895548,17.3615076 L3.9895548,7.49326001 L12.0034817,14.0007286 L20.0104452,7.15357862 Z"></path>
             </g>

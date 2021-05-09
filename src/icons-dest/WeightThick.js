@@ -16,9 +16,9 @@ function SvgWeightthick(props) {
         />
       </defs>
       <use
-        fill="#62656E"
         xlinkHref="#weight_thick_svg__a"
         transform="translate(-3 -3)"
+        fill="none"
         fillRule="evenodd"
       />
     </svg>

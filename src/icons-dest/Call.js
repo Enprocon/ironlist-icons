@@ -16,9 +16,9 @@ function SvgCall(props) {
         />
       </defs>
       <use
-        fill="#62656E"
         xlinkHref="#call_svg__a"
         transform="translate(-2 -2)"
+        fill="none"
         fillRule="evenodd"
       />
     </svg>

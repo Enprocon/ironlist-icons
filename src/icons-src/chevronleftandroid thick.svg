@@ -2,7 +2,7 @@
 <svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>chevronleftandroid thick</title>
     <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Icons-[All-Platforms]" transform="translate(-920.000000, -1266.000000)" fill="#62656E">
+        <g id="Icons-[All-Platforms]" transform="translate(-920.000000, -1266.000000)" >
             <g id="Combined-Shape" transform="translate(918.000000, 1264.000000)">
                 <path d="M11.9999999,2.90909086 L11.9999999,4.19454541 L10.8133931,5.34954542 L4.91499995,11.0900909 L19.1475124,11.091368 L20.7812505,11.0910466 L21.690204,12.0000001 L20.7812504,12.9089537 L19.1475124,12.9092752 L4.91599995,12.9090909 L10.8133931,18.65 L11.9999999,19.8054545 L11.9999999,21.0909091 L10.6793686,21.0909091 L9.49229475,19.9354545 L1.99999995,12.6427273 L1.99999995,11.3572727 L9.49229475,4.06409087 L10.6793686,2.90909086 L11.9999999,2.90909086 Z"></path>
             </g>

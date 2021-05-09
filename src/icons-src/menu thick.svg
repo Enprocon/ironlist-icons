@@ -2,7 +2,7 @@
 <svg width="20px" height="12px" viewBox="0 0 20 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>menu thick</title>
     <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Icons-[All-Platforms]" transform="translate(-75.000000, -1270.000000)" fill="#62656E">
+        <g id="Icons-[All-Platforms]" transform="translate(-75.000000, -1270.000000)" >
             <g id="Icons_navigation_menu" transform="translate(73.000000, 1264.000000)">
                 <path d="M21.000005,16.0000583 L22.0000001,17.0000292 L21.000005,18 L3.00009995,18 L2.00009995,17.0000292 L3.00009995,16.0000583 L21.000005,16.0000583 Z M21.000005,10.9998042 L22.0000001,12.000275 L21.000005,13.0002458 L3.00009995,13.0002458 L2.00009995,12.000275 L3.00009995,10.9998042 L21.000005,10.9998042 Z M20.999905,5.99999997 L21.9999,7.0004708 L20.999905,8.00044163 L2.99999995,8.00044163 L1.99999995,7.0004708 L2.99999995,5.99999997 L20.999905,5.99999997 Z"></path>
             </g>

@@ -16,9 +16,9 @@ function SvgCardthick(props) {
         />
       </defs>
       <use
-        fill="#62656E"
         xlinkHref="#card_thick_svg__a"
         transform="translate(-2 -6)"
+        fill="none"
         fillRule="evenodd"
       />
     </svg>

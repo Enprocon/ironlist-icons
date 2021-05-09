@@ -2,7 +2,7 @@
 <svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>download thick</title>
     <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Icons-[All-Platforms]" transform="translate(-358.000000, -374.000000)" fill="#62656E">
+        <g id="Icons-[All-Platforms]" transform="translate(-358.000000, -374.000000)" >
             <g id="Combined-Shape" transform="translate(356.000000, 372.000000)">
                 <path d="M20.8826619,19.2727273 L22,20.4184824 L20.8817793,21.5454546 L3.11822068,21.5454546 L1.99999995,20.3988051 L3.11998584,19.2727273 L20.8826619,19.2727273 Z M11.56746,1.99999995 L12.657172,3.09170479 L12.6615731,14.2291142 L16.8452574,9.78792299 L18.3205057,9.79526835 L18.3152243,11.1716061 L18.3636364,11.2726048 L11.56746,18.3636364 L4.72727269,11.2266964 L4.8214562,11.1302884 L4.82673752,9.78333213 L6.29230333,9.78792299 L10.4751074,14.2291142 L10.4786283,3.09170479 L11.56746,1.99999995 Z"></path>
             </g>

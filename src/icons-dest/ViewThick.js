@@ -16,9 +16,9 @@ function SvgViewthick(props) {
         />
       </defs>
       <use
-        fill="#62656E"
         xlinkHref="#view_thick_svg__a"
         transform="translate(-2 -7)"
+        fill="none"
         fillRule="evenodd"
       />
     </svg>

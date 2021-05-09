@@ -16,9 +16,9 @@ function SvgCopythick(props) {
         />
       </defs>
       <use
-        fill="#62656E"
         xlinkHref="#copy_thick_svg__a"
         transform="translate(-4 -3)"
+        fill="none"
         fillRule="evenodd"
       />
     </svg>

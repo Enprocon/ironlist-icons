@@ -16,9 +16,9 @@ function SvgWalletthick(props) {
         />
       </defs>
       <use
-        fill="#62656E"
         xlinkHref="#wallet_thick_svg__a"
         transform="translate(-2 -5)"
+        fill="none"
         fillRule="evenodd"
       />
     </svg>

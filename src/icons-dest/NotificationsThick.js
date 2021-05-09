@@ -16,9 +16,9 @@ function SvgNotificationsthick(props) {
         />
       </defs>
       <use
-        fill="#62656E"
         xlinkHref="#notifications_thick_svg__a"
         transform="translate(-3 -2)"
+        fill="none"
         fillRule="evenodd"
       />
     </svg>

@@ -2,7 +2,7 @@
 <svg width="12px" height="20px" viewBox="0 0 12 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>chevronleft thick</title>
     <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Icons-[All-Platforms]" transform="translate(-923.000000, -1170.000000)" fill="#62656E">
+        <g id="Icons-[All-Platforms]" transform="translate(-923.000000, -1170.000000)" >
             <g id="Icons_navigation_chevron_left" transform="translate(917.000000, 1168.000000)">
                 <polygon points="16.0473055 1.99999995 14.7415243 3.27049996 6.49999997 11.293 6.49999997 12.707 14.7415243 20.729 16.0473055 22.0000001 17.5 22.0000001 17.5 20.586 16.1947324 19.3145 16.1947324 19.315 8.67955541 12 16.1947324 4.68449996 17.5 3.41399996 17.5 1.99999995"></polygon>
             </g>

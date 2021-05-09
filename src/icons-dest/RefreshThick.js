@@ -16,9 +16,9 @@ function SvgRefreshthick(props) {
         />
       </defs>
       <use
-        fill="#62656E"
         xlinkHref="#refresh_thick_svg__a"
         transform="translate(-5 -5)"
+        fill="none"
         fillRule="evenodd"
       />
     </svg>

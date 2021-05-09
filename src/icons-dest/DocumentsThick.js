@@ -16,9 +16,9 @@ function SvgDocumentsthick(props) {
         />
       </defs>
       <use
-        fill="#62656E"
         xlinkHref="#documents_thick_svg__a"
         transform="translate(-5 -3)"
+        fill="none"
         fillRule="evenodd"
       />
     </svg>
