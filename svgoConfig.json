@@ -1,0 +1,10 @@
+{
+  "plugins": [
+    { "removeTitle": false },
+    { "removeViewBox": false },
+    { "removeDesc": false },
+    { "cleanupIDs": false },
+    { "prefixIds": false },
+    { "removeAttrs": { "attrs": "(fill)" } }
+  ]
+}

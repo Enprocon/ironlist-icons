@@ -2,12 +2,23 @@ import * as React from "react";
 
 function SvgClosethick(props) {
   return (
-    <svg width={20} height={20} xmlns="http://www.w3.org/2000/svg" {...props}>
-      <path
-        d="M18.586 0l-1.271 1.27L10 8.585 2.685 1.27 1.414 0H0v1.414l1.271 1.27L8.586 10l-7.315 7.315L0 18.585V20h1.414l1.271-1.271L10 11.414l7.315 7.315L18.586 20H20v-1.414l-1.27-1.271L11.414 10l7.316-7.316L20 1.414V0z"
-        fill="none"
-        fillRule="evenodd"
-      />
+    <svg
+      width={20}
+      height={20}
+      viewBox="0 0 20 20"
+      xmlns="http://www.w3.org/2000/svg"
+      {...props}
+    >
+      <title>{"close thick"}</title>
+      <g id="Icons" stroke="none" strokeWidth={1} fillRule="evenodd">
+        <g id="Icons-[All-Platforms]" transform="translate(-1339 -1170)">
+          <path
+            d="M20.586 2l-1.271 1.27L12 10.585 4.685 3.27 3.414 2H2v1.414l1.271 1.27L10.586 12l-7.315 7.315L2 20.585V22h1.414l1.271-1.271L12 13.414l7.315 7.315L20.586 22H22v-1.414l-1.27-1.271L13.414 12l7.316-7.316L22 3.414V2z"
+            transform="translate(1337 1168)"
+            id="Icons_navigation_close"
+          />
+        </g>
+      </g>
     </svg>
   );
 }
