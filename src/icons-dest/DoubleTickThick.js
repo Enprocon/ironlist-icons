@@ -10,15 +10,10 @@ function SvgDoubletickthick(props) {
       {...props}
     >
       <title>{"double tick thick"}</title>
-      <g id="Icons" stroke="none" strokeWidth={1} fillRule="evenodd">
-        <g id="Icons-[All-Platforms]" transform="translate(-218 -378)">
-          <path
-            d="M20.715 6.09l-1.156 1.183-8.469 8.663-1.44-1.475 5.74-5.873 1.155-1.182V6.091H15.26l-1.155 1.182-8.469 8.663-1.195-1.223-1.156-1.182H2v1.315l1.155 1.183 1.839 1.88h1.285l2.085-2.132 2.084 2.132h1.285l9.112-9.32L22 7.405V6.091z"
-            transform="translate(216 372)"
-            id="Icons_basic_double-tick"
-          />
-        </g>
-      </g>
+      <path
+        d="M18.715.09l-1.156 1.183L9.09 9.936 7.65 8.461l5.74-5.873 1.155-1.182V.091H13.26l-1.155 1.182-8.469 8.663-1.195-1.223-1.156-1.182H0v1.315l1.155 1.183 1.839 1.88h1.285l2.085-2.132 2.084 2.132h1.285l9.112-9.32L20 1.405V.091z"
+        fillRule="evenodd"
+      />
     </svg>
   );
 }

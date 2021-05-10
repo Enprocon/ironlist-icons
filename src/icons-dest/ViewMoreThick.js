@@ -10,15 +10,10 @@ function SvgViewMorethick(props) {
       {...props}
     >
       <title>{"view-more thick"}</title>
-      <g id="Icons" stroke="none" strokeWidth={1} fillRule="evenodd">
-        <g id="Icons-[All-Platforms]" transform="translate(-497 -1274)">
-          <path
-            d="M4 10c1.103 0 2 .897 2 2s-.897 2-2 2-2-.897-2-2 .897-2 2-2zm8 0c1.103 0 2 .897 2 2s-.897 2-2 2-2-.897-2-2 .897-2 2-2zm8 0c1.103 0 2 .897 2 2s-.897 2-2 2-2-.897-2-2 .897-2 2-2z"
-            transform="translate(495 1264)"
-            id="Icons_navigation_view-more"
-          />
-        </g>
-      </g>
+      <path
+        d="M2 0c1.103 0 2 .897 2 2s-.897 2-2 2-2-.897-2-2 .897-2 2-2zm8 0c1.103 0 2 .897 2 2s-.897 2-2 2-2-.897-2-2 .897-2 2-2zm8 0c1.103 0 2 .897 2 2s-.897 2-2 2-2-.897-2-2 .897-2 2-2z"
+        fillRule="evenodd"
+      />
     </svg>
   );
 }

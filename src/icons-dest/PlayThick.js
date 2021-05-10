@@ -10,15 +10,10 @@ function SvgPlaythick(props) {
       {...props}
     >
       <title>{"play thick"}</title>
-      <g id="Icons" stroke="none" strokeWidth={1} fillRule="evenodd">
-        <g id="Icons-[All-Platforms]" transform="translate(-639 -686)">
-          <path
-            d="M5.587 2L4 2.855v18.29L5.587 22 20 12.855v-1.71L5.587 2zm.472 2.716L17.54 12 6.06 19.284V4.716z"
-            transform="translate(635 684)"
-            id="Icons_basic_play"
-          />
-        </g>
-      </g>
+      <path
+        d="M1.587 0L0 .855v18.29L1.587 20 16 10.855v-1.71L1.587 0zm.472 2.716L13.54 10 2.06 17.284V2.716z"
+        fillRule="evenodd"
+      />
     </svg>
   );
 }

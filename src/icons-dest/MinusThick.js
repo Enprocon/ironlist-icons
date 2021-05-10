@@ -10,15 +10,10 @@ function SvgMinusthick(props) {
       {...props}
     >
       <title>{"minus thick"}</title>
-      <g id="Icons" stroke="none" strokeWidth={1} fillRule="evenodd">
-        <g id="Icons-[All-Platforms]" transform="translate(-641 -591)">
-          <path
-            d="M17.35 16.067L8.006 6.723l-1.004-.002-.01 1.015 9.345 9.344.999-.025z"
-            transform="translate(637 580)"
-            id="Combined-Shape"
-          />
-        </g>
-      </g>
+      <path
+        d="M13.35 5.067L4.006-4.277l-1.004-.002-.01 1.015 9.345 9.344.999-.025z"
+        fillRule="evenodd"
+      />
     </svg>
   );
 }

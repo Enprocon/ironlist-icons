@@ -10,15 +10,10 @@ function SvgPausethick(props) {
       {...props}
     >
       <title>{"pause thick"}</title>
-      <g id="Icons" stroke="none" strokeWidth={1} fillRule="evenodd">
-        <g id="Icons-[All-Platforms]" transform="translate(-224 -686)">
-          <path
-            d="M8.667 2l1.11 1.111V20.89L8.668 22l-1.111-1.111V3.11L8.666 2zm6.666 0l1.111 1.111V20.89L15.334 22l-1.112-1.111V3.11L15.333 2z"
-            transform="translate(217 684)"
-            id="Icons_basic_pause"
-          />
-        </g>
-      </g>
+      <path
+        d="M1.667 0l1.11 1.111V18.89L1.668 20 .556 18.889V1.11L1.666 0zm6.666 0l1.111 1.111V18.89L8.334 20l-1.112-1.111V1.11L8.333 0z"
+        fillRule="evenodd"
+      />
     </svg>
   );
 }

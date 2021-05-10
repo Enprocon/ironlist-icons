@@ -10,15 +10,10 @@ function SvgMobilethick(props) {
       {...props}
     >
       <title>{"mobile thick"}</title>
-      <g id="Icons" stroke="none" strokeWidth={1} fillRule="evenodd">
-        <g id="Icons-[All-Platforms]" transform="translate(-1204 -686)">
-          <path
-            d="M17.43 2L19 3.59v16.435L17.51 22H6.465L5 20V3.585L6.585 2H17.43zm-.835 2H7.41L7 4.415V19.36l.47.64h9.045l.5-.645V4.41l-.42-.41zM12 16a1 1 0 110 2 1 1 0 010-2z"
-            transform="translate(1199 684)"
-            id="Icons_basic_properties"
-          />
-        </g>
-      </g>
+      <path
+        d="M12.43 0L14 1.59v16.435L12.51 20H1.465L0 18V1.585L1.585 0H12.43zm-.835 2H2.41L2 2.415V17.36l.47.64h9.045l.5-.645V2.41l-.42-.41zM7 14a1 1 0 110 2 1 1 0 010-2z"
+        fillRule="evenodd"
+      />
     </svg>
   );
 }

@@ -10,15 +10,10 @@ function SvgMenuthick(props) {
       {...props}
     >
       <title>{"menu thick"}</title>
-      <g id="Icons" stroke="none" strokeWidth={1} fillRule="evenodd">
-        <g id="Icons-[All-Platforms]" transform="translate(-75 -1270)">
-          <path
-            d="M21 16l1 1-1 1H3l-1-1 1-1h18zm0-5l1 1-1 1H3l-1-1 1-1h18zm0-5l1 1-1 1H3L2 7l1-1h18z"
-            transform="translate(73 1264)"
-            id="Icons_navigation_menu"
-          />
-        </g>
-      </g>
+      <path
+        d="M19 10l1 1-1 1H1l-1-1 1-1h18zm0-5l1 1-1 1H1L0 6l1-1h18zm0-5l1 1-1 1H1L0 1l1-1h18z"
+        fillRule="evenodd"
+      />
     </svg>
   );
 }

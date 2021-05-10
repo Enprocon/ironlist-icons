@@ -14,19 +14,14 @@ function SvgFacebook(props) {
       <defs>
         <path
           d="M12 2c5.523 0 10 4.477 10 10s-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2zm0 1.53a8.47 8.47 0 100 16.94 8.47 8.47 0 100-16.94zm2.456 3.528v1.35h-1.437c-.361 0-.675.348-.675.74v1.48h2.111v1.263h-2.111v5.05h-1.573v-5.05H8.929v-1.262h1.842V8.887c0-1.002.809-1.83 1.797-1.83h1.888z"
-          id="path-1"
+          id="facebook_svg__a"
         />
       </defs>
-      <g id="Icons" stroke="none" strokeWidth={1} fillRule="evenodd">
-        <g id="Icons-[All-Platforms]" transform="translate(-216 -1640)">
-          <g id="Group" transform="translate(214 1638)">
-            <mask id="mask-2">
-              <use xlinkHref="#path-1" />
-            </mask>
-            <use id="Combined-Shape" xlinkHref="#path-1" />
-          </g>
-        </g>
-      </g>
+      <use
+        xlinkHref="#facebook_svg__a"
+        transform="translate(-2 -2)"
+        fillRule="evenodd"
+      />
     </svg>
   );
 }

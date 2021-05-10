@@ -10,15 +10,10 @@ function SvgChevronleftthick(props) {
       {...props}
     >
       <title>{"chevronleft thick"}</title>
-      <g id="Icons" stroke="none" strokeWidth={1} fillRule="evenodd">
-        <g id="Icons-[All-Platforms]" transform="translate(-923 -1170)">
-          <path
-            d="M16.047 2l-1.305 1.27L6.5 11.293v1.414l8.242 8.022L16.047 22H17.5v-1.414l-1.305-1.271L8.68 12l7.515-7.316 1.305-1.27V2z"
-            transform="translate(917 1168)"
-            id="Icons_navigation_chevron_left"
-          />
-        </g>
-      </g>
+      <path
+        d="M10.047 0L8.742 1.27.5 9.293v1.414l8.242 8.022L10.047 20H11.5v-1.414l-1.305-1.271L2.68 10l7.515-7.316 1.305-1.27V0z"
+        fillRule="evenodd"
+      />
     </svg>
   );
 }
