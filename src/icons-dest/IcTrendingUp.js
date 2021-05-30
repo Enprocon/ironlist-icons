@@ -1,6 +1,6 @@
 import * as React from "react";
 
-function SvgIcCompare(props) {
+function SvgIcTrendingUp(props) {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
@@ -11,27 +11,27 @@ function SvgIcCompare(props) {
       {...props}
     >
       <defs>
-        <filter id="ic-compare_svg__a">
+        <filter id="ic-trending-up_svg__a" colorInterpolationFilters="auto">
           <feColorMatrix
             in="SourceGraphic"
             values="0 0 0 0 0.560784 0 0 0 0 0.568627 0 0 0 0 0.592157 0 0 0 1.000000 0"
           />
         </filter>
         <path
-          id="ic-compare_svg__b"
-          d="M10 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h5v2h2V1h-2v2zm0 15H5l5-6v6zm9-15h-5v2h5v13l-5-6v9h5c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+          id="ic-trending-up_svg__b"
+          d="M16 6l2.29 2.29-4.88 4.88-4-4L2 16.59 3.41 18l6-6 4 4 6.3-6.29L22 12V6z"
         />
       </defs>
       <g
-        filter="url(#ic-compare_svg__a)"
-        transform="translate(-806 -158)"
+        filter="url(#ic-trending-up_svg__a)"
+        transform="translate(-16 -236)"
         fillRule="evenodd"
       >
-        <g transform="translate(806 158)">
-          <mask id="ic-compare_svg__c">
-            <use xlinkHref="#ic-compare_svg__b" />
+        <g transform="translate(16 236)">
+          <mask id="ic-trending-up_svg__c">
+            <use xlinkHref="#ic-trending-up_svg__b" />
           </mask>
-          <g mask="url(#ic-compare_svg__c)">
+          <g mask="url(#ic-trending-up_svg__c)">
             <path d="M-13-13h50v50h-50z" />
           </g>
         </g>
@@ -40,4 +40,4 @@ function SvgIcCompare(props) {
   );
 }
 
-export default SvgIcCompare;
+export default SvgIcTrendingUp;
