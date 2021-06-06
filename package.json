@@ -17,7 +17,9 @@
     "clean:icons": "rimraf src/icons-dest",
     "generate:icons": "npm run clean:icons && node node_modules/@svgr/cli/bin/svgr --svgo-config ./svgoConfig.json --config-file ./.svgrrc.js -d ./src/icons-dest ./src/icons-src",
     "clean": "rimraf dist",
-    "compile": "npm run clean && npm run generate:icons && cross-env NODE_ENV=production babel src/icons-dest --out-dir dist --copy-files --ignore __tests__,spec.js,test.js,stories.js,__snapshots__"
+    "compile": "npm run clean && npm run generate:icons && cross-env NODE_ENV=production babel src/icons-dest --out-dir dist --copy-files --ignore __tests__,spec.js,test.js,stories.js,__snapshots__",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
   },
   "eslintConfig": {
     "extends": [
@@ -43,12 +45,18 @@
   },
   "devDependencies": {
     "@babel/cli": "7.13.16",
+    "@babel/core": "^7.14.3",
     "@babel/preset-env": "7.14.1",
     "@babel/preset-react": "7.13.13",
+    "@storybook/addon-actions": "^6.2.9",
+    "@storybook/addon-essentials": "^6.2.9",
+    "@storybook/addon-links": "^6.2.9",
+    "@storybook/react": "^6.2.9",
     "@svgr/cli": "5.5.0",
     "@svgr/core": "5.5.0",
     "@svgr/plugin-svgo": "^5.5.0",
     "@svgr/webpack": "5.5.0",
+    "babel-loader": "^8.2.2",
     "babel-preset-minify": "0.5.1",
     "cross-env": "7.0.3",
     "react": "17.0.2",
