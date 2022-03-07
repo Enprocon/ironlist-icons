@@ -3,8 +3,8 @@ import * as React from "react";
 function SvgSmsthick({ title, titleId, ...props }) {
   return (
     <svg
-      width="1em"
-      height="1em"
+      width={20}
+      height={16}
       viewBox="0 0 20 16"
       xmlns="http://www.w3.org/2000/svg"
       aria-labelledby={titleId}

@@ -3,8 +3,8 @@ import * as React from "react";
 function SvgViewMorethick({ title, titleId, ...props }) {
   return (
     <svg
-      width="1em"
-      height="1em"
+      width={20}
+      height={4}
       viewBox="0 0 20 4"
       xmlns="http://www.w3.org/2000/svg"
       aria-labelledby={titleId}

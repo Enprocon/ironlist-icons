@@ -3,8 +3,8 @@ import * as React from "react";
 function SvgQuestionsthick({ title, titleId, ...props }) {
   return (
     <svg
-      width="1em"
-      height="1em"
+      width={19}
+      height={20}
       viewBox="0 0 19 20"
       xmlns="http://www.w3.org/2000/svg"
       xmlnsXlink="http://www.w3.org/1999/xlink"

@@ -3,8 +3,8 @@ import * as React from "react";
 function SvgToolsthick({ title, titleId, ...props }) {
   return (
     <svg
-      width="1em"
-      height="1em"
+      width={10}
+      height={17}
       viewBox="0 0 10 17"
       xmlns="http://www.w3.org/2000/svg"
       xmlnsXlink="http://www.w3.org/1999/xlink"

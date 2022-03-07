@@ -3,8 +3,8 @@ import * as React from "react";
 function SvgPostpaidthick({ title, titleId, ...props }) {
   return (
     <svg
-      width="1em"
-      height="1em"
+      width={16}
+      height={18}
       viewBox="0 0 16 18"
       xmlns="http://www.w3.org/2000/svg"
       aria-labelledby={titleId}

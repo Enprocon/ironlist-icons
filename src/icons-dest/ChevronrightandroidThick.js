@@ -3,8 +3,8 @@ import * as React from "react";
 function SvgChevronrightandroidthick({ title, titleId, ...props }) {
   return (
     <svg
-      width="1em"
-      height="1em"
+      width={17}
+      height={16}
       viewBox="0 0 17 16"
       xmlns="http://www.w3.org/2000/svg"
       xmlnsXlink="http://www.w3.org/1999/xlink"
