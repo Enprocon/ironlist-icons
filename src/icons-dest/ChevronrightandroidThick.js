@@ -1,16 +1,21 @@
 import * as React from "react";
 
-function SvgChevronrightandroidthick(props) {
+function SvgChevronrightandroidthick({ title, titleId, ...props }) {
   return (
     <svg
-      width={17}
-      height={16}
+      width="1em"
+      height="1em"
       viewBox="0 0 17 16"
       xmlns="http://www.w3.org/2000/svg"
       xmlnsXlink="http://www.w3.org/1999/xlink"
+      aria-labelledby={titleId}
       {...props}
     >
-      <title>{"chevronrightandroid thick"}</title>
+      {title === undefined ? (
+        <title id={titleId}>{"chevronrightandroid thick"}</title>
+      ) : title ? (
+        <title id={titleId}>{title}</title>
+      ) : null}
       <defs>
         <path
           d="M13.1 4.424l.99.963 6.243 6.077v1.072l-6.243 6.077-.99.963H12v-1.071l.989-.963 4.914-4.785H4.683L3.924 12l.757-.757h13.222l-4.915-4.785L12 5.495v-1.07h1.1z"

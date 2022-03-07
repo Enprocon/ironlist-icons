@@ -1,16 +1,21 @@
 import * as React from "react";
 
-function SvgWeightthick(props) {
+function SvgWeightthick({ title, titleId, ...props }) {
   return (
     <svg
-      width={18}
-      height={18}
+      width="1em"
+      height="1em"
       viewBox="0 0 18 18"
       xmlns="http://www.w3.org/2000/svg"
       xmlnsXlink="http://www.w3.org/1999/xlink"
+      aria-labelledby={titleId}
       {...props}
     >
-      <title>{"weight thick"}</title>
+      {title === undefined ? (
+        <title id={titleId}>{"weight thick"}</title>
+      ) : title ? (
+        <title id={titleId}>{title}</title>
+      ) : null}
       <defs>
         <path
           d="M12 3.667a3.333 3.333 0 012.887 5h.446l.834.833 4.166 10-.833.833h-15l-.833-.833 4.166-10 .834-.833h.446a3.333 3.333 0 012.887-5zm2.643 6.666H9.357l-.112.112-3.426 8.222H18.18l-3.426-8.222-.111-.112zm-2.643-5a1.667 1.667 0 100 3.334 1.667 1.667 0 000-3.334z"

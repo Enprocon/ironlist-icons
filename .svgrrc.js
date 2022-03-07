@@ -1,4 +1,6 @@
 module.exports = {
+  icon: true,
+  titleProp: true,
   cleanupIDs: {
     prefix: {
       toString() {

@@ -1,6 +1,6 @@
 {
   "name": "@ironlist/ironlist-icons",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "private": false,
   "main": "dist/index.js",
   "module": "dist/index.js",
@@ -8,7 +8,9 @@
     "type": "git",
     "url": "git+https://github.com/Enprocon/ironlist-icons.git"
   },
-  "dependencies": {},
+  "dependencies": {
+    "next-plugin-svgr": "^1.1.1"
+  },
   "scripts": {
     "start": "react-app-rewired start",
     "build": "react-app-rewired build",

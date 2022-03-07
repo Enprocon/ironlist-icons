@@ -37,7 +37,12 @@ const Template = () =>
             alignItems: "center",
           }}
         >
-          <Component height={20} width={20} fill="#333" />
+          <Component
+            height={20}
+            width={20}
+            fill="#333"
+            title={key?.split("T")[0]}
+          />
         </div>
       </div>
     );
